@@ -23,11 +23,6 @@
 * docker container start app1
 * open your favorite browser and typing _localhost:8000_
 
-  #### Account Admin
-  _localhost:8000/admin_
-  - username : admin
-  - password : admin
-
 
 ### Salam
 * Theis Andatu
