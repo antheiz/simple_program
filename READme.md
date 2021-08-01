@@ -5,18 +5,8 @@
 
 ![Hasil Program](./img/demo.png)
 
-#### How to run This Project 
-
-* git clone https://github.com/antheiz/WarungMakan-django.git
-* cd WarungMakan-django
-* python -m venv env-django
-* source env-django/bin/activate/
-* pip install -r requirements.txt
-* python manage.py runserver
-* open your favorite browser and typing _localhost:8000_
-
 ### Cara menggunakan Aplikasi
-* git clone 
+* git clone https://github.com/antheiz/simple_program.git
 * cd simple_program
 * docker build --tag warungmakan:1.0
 * docker container create --name app1 -p 8000:8000 warungmakan:1.0
