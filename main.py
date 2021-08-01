@@ -4,7 +4,7 @@ print("| NRP     : 05211940007003                                           |")
 print("| Jurusan : Sistem Informasi                                         |")
 print("| Kampus  : Institut Teknologi Sepuluh Nopember                      |")
 print("|                                                                    |")
-print("| Masukan deret Bilangan pisahkan dengan Koma. (misalnya: 1,2,3,4,5) |")
+print("| Masukan deret Bilangan pisahkan dengan Koma. (Ex: 32,21,56,43,89)  |")
 print("======================================================================")
 print()
 

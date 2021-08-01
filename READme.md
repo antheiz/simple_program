@@ -8,13 +8,11 @@
 ### Cara menggunakan Aplikasi
 * git clone https://github.com/antheiz/simple_program.git
 * cd simple_program
-* docker build --tag warungmakan:1.0
-* docker container create --name app1 -p 8000:8000 warungmakan:1.0
-* docker container start app1
-* open your favorite browser and typing _localhost:8000_
+* python main.py
+* masukan deret bilangan yang dipisahkan    dengan koma
+    - contohnya : 32,21,56,43,89    
 
-
-### Salam
-* Theis Andatu
+### Develop by :
+* Dortheis Andatu
 
 
